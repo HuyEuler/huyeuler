@@ -1,7 +1,3 @@
-<a href="#" target="_blank">
-  <img src="./resources/svg/chill_huy.svg" width="1200px" alt="tiendatdev" />
-</a>
-
 # 💫 About Me:
 I'm currently learning
 
