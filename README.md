@@ -1,5 +1,7 @@
-<h1 align="center">🖐Welcome to my Github page🖐</h1>
-![svg](./resources/svg/chill_huy.svg)
+<a href="#" target="_blank">
+  <img src="./resources/svg/chill_huy.svg" width="1200px" alt="tiendatdev" />
+</a>
+
 # 💫 About Me:
 I'm currently learning
 
