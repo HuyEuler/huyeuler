@@ -1,3 +1,5 @@
+<h1 align="center">🖐Welcome to my Github page🖐</h1>
+![svg](./resources/svg/chill_huy.svg)
 # 💫 About Me:
 I'm currently learning
 
